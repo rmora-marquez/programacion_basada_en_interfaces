@@ -9,7 +9,7 @@ public class Jeringa implements Herramienta {
 
 	@Override
 	public String getHabilidad() {
-		return "hacer sufrir a Alejandro";
+		return "hacer sufrir";
 	}
 
 }
